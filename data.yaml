@@ -1,0 +1,5 @@
+path: datasets
+train: images/train
+val: images/val
+nc: 5 #number of class
+names: ["full_pills_back", "full_pills_front", "lost_pills_back", "lost_pills_front", "not_found"]
